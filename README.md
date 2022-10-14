@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height = 50px>  About me
 
-- Hello Everyone 👋, My name is Ronaldo.<br>
+- Hello Everyone 👋, My name is Felype.<br>
 - I'm a computer technician student at the Federal Institute of Alagoas - Campus Arapiraca👨‍💻.<br>
 - I'm interested in back-end development and interests in aps development in Java.<br>
 - Presently, I'm developing Softwares & apps with Flutter.<br>
